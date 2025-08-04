@@ -1,3 +1,12 @@
 1 .abcd
+<<<<<<< HEAD
 efg
 2. 12345
+=======
+2. 1234567
+
+poiuyt
+>>>>>>> newbranch
+
+aaavvcc
+3456
